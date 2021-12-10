@@ -20,7 +20,18 @@ componentes : Componente[] =[
     icon:'alert-circle-outline',
     name:'Alert',
     redirectTo:'/alert'
-  }
+  },
+  {
+    icon:'beaker-outline',
+    name:'Profile',
+    redirectTo:'/avatar'
+  },
+  {
+    icon:'beaker-outline',
+    name:'Buttons',
+    redirectTo:'/button'
+  },
+  
 ];
 
   constructor() { }
