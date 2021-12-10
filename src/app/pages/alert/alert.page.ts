@@ -114,7 +114,7 @@ export class AlertPage implements OnInit {
         {
           text: 'Cancel',
           role: 'cancel',
-          cssClass: 'secondary',
+          cssClass: 'rojo',
           handler: () => {
             console.log('Confirm Cancel');
           },
@@ -198,7 +198,7 @@ export class AlertPage implements OnInit {
         {
           text: 'Cancel',
           role: 'cancel',
-          cssClass: 'secondary',
+          cssClass: 'rojo',
           handler: () => {
             console.log('Confirm Cancel');
           },
@@ -286,7 +286,7 @@ export class AlertPage implements OnInit {
         {
           text: 'Cancel',
           role: 'cancel',
-          cssClass: 'secondary',
+          cssClass: 'rojo',
           handler: () => {
             console.log('Confirm Cancel');
           },
