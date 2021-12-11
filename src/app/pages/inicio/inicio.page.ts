@@ -36,7 +36,17 @@ componentes : Componente[] =[
     name:'Cards',
     redirectTo:'/card'
   },
-  
+  {
+    icon:'checkmark-circle-outline',
+    name:'CheckBox',
+    redirectTo:'/check'
+  },
+  {
+    icon:'calendar-outline',
+    name:'Calendario',
+    redirectTo:'/date-time'
+  },
+
 ];
 
   constructor() { }
