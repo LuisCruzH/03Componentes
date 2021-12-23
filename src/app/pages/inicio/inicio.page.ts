@@ -46,6 +46,11 @@ componentes : Componente[] =[
     name:'Calendario',
     redirectTo:'/date-time'
   },
+  {
+    icon:'car-outline',
+    name:'Fab',
+    redirectTo:'/tab'
+  },
 
 ];
 

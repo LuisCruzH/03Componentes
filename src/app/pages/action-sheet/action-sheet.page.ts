@@ -57,7 +57,7 @@ export class ActionSheetPage implements OnInit {
             console.log('Cancel clicked');
           },
         },
-      ],
+      ]
     });
     await actionSheet.present();
   }
