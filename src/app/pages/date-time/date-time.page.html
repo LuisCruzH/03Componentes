@@ -32,10 +32,10 @@
         displayFormat="YYYY"
       ></ion-datetime>
     </ion-item>
-
     <ion-item>
       <ion-label>Custom Option</ion-label>
-      <ion-datetime [pickerOptions]="customPickerOptions"></ion-datetime>
+      <ion-datetime [pickerOptions]="customPickerOptions"
+                    [yearValues]="customYearValues"></ion-datetime>
     </ion-item>
   </ion-list>
 </ion-content>
