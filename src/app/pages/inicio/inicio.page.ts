@@ -51,6 +51,11 @@ componentes : Componente[] =[
     name:'Fab',
     redirectTo:'/tab'
   },
+  {
+    icon:'grid-outline',
+    name:'Grid',
+    redirectTo:'/grid'
+  },
 
 ];
 
