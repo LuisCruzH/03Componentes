@@ -56,6 +56,11 @@ componentes : Componente[] =[
     name:'Grid',
     redirectTo:'/grid'
   },
+  {
+    icon:'infinite-outline',
+    name:'ScrollInfinite',
+    redirectTo:'/scroll'
+  },
 
 ];
 

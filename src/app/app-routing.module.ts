@@ -48,6 +48,10 @@ const routes: Routes = [
     path: 'grid',
     loadChildren: () => import('./pages/grid/grid.module').then( m => m.GridPageModule)
   },
+  {
+    path: 'scroll',
+    loadChildren: () => import('./pages/scroll/scroll.module').then( m => m.ScrollPageModule)
+  },
 
 ];
 
