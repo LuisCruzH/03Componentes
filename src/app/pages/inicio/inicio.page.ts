@@ -66,6 +66,11 @@ componentes : Componente[] =[
     name:'Input Forms',
     redirectTo:'/input'
   },
+  {
+    icon:'list-outline',
+    name:'List',
+    redirectTo:'/list'
+  },
 
 ];
 

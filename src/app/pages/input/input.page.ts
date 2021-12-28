@@ -17,7 +17,7 @@ export class InputPage implements OnInit {
     password: '',
   };
   onSubmit(formulario: NgForm) {
-    console.log('Ya');
+    console.log('submit');
     console.log(formulario);
   }
 }
