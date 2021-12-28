@@ -61,6 +61,11 @@ componentes : Componente[] =[
     name:'ScrollInfinite',
     redirectTo:'/scroll'
   },
+  {
+    icon:'hammer-outline',
+    name:'Input Forms',
+    redirectTo:'/input'
+  },
 
 ];
 
