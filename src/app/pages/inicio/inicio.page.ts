@@ -71,6 +71,11 @@ componentes : Componente[] =[
     name:'List',
     redirectTo:'/list'
   },
+  {
+    icon:'share-outline',
+    name:'List - Reorder',
+    redirectTo:'/reorder'
+  },
 
 ];
 
